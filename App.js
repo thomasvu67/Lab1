@@ -7,11 +7,12 @@ import BT5 from"./src/BT5"
 import BT6 from"./src/BT6"
 import BT7 from"./src/BT7"
 import BT8 from"./src/BT8"
+import Maytinh from "./Maytinh"
 
 const App =()=>
 {
   return(
-    <BT8/>
+    <Maytinh/>
   )
 }
 export default App;
